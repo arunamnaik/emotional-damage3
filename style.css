@@ -1,0 +1,7 @@
+body{
+    background:linear-gradient(crimson,orange);
+}
+.heading{
+    border: ridge 15px;
+    border-color: yellow;
+}
